@@ -1,0 +1,5 @@
+Backend => dependencies
+nodemon multer mongoose jsonwebtoken express-formidable express-async-handler express dotenv cors cookie-parser concurrently bcryptjs
+
+Frontend => dependencies
+slick-carousel react-slick react-toastify react-router-dom react-redux react-icons apexcharts react-apexcharts moment flowbite axios @reduxjs/toolkit @paypal/react-paypal-js 
