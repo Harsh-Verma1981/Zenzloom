@@ -1,3 +1,7 @@
+This project is still on development some features are there only.
+Sorry for Inconvenience.
+
+
 Zenzloom – MERN E-Commerce Platform
 
 Zenzloom is a full-stack e-commerce web application built using the MERN stack (MongoDB, Express, React, Node.js).
