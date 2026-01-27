@@ -1,12 +1,12 @@
-🛍️ Zenzloom – MERN E-Commerce Platform
+Zenzloom – MERN E-Commerce Platform
 
 Zenzloom is a full-stack e-commerce web application built using the MERN stack (MongoDB, Express, React, Node.js).
 It provides a complete shopping experience for users and a powerful admin panel for managing products, categories, users, and orders.
 
 This project is ideal for learning full-stack development, college presentations, and portfolio showcasing.
 
-🚀 Features
-👤 User Features
+Features
+User Features
 
 User registration and login (JWT authentication)
 
@@ -50,7 +50,7 @@ Image upload using Multer
 
 Pagination and filtering support
 
-🧰 Tech Stack
+Tech Stack
 Frontend
 
 React.js (Vite)
@@ -77,7 +77,7 @@ Multer
 
 JWT (JSON Web Token)
 
-📁 Project Structure
+Project Structure
 Zenzloom/
 │
 ├── backend/
@@ -158,7 +158,7 @@ Backend serves images using /uploads
 
 Frontend automatically displays images from backend
 
-🔐 Admin Access
+Admin Access
 
 Admin users can manage products and categories
 
